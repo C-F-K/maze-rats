@@ -1,0 +1,7 @@
+{
+  "name": "maze-rats",
+  "short_name": "maze-rats",
+  "description": "Maze Rats implemented in Polymer",
+  "start_url": "/",
+  "display": "standalone"
+}
